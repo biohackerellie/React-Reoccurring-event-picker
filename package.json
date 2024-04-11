@@ -1,5 +1,5 @@
 {
-	"name": "react-reoccurring-event-picker",
+	"name": "@epklabs/react-reoccurring-event-picker",
 	"version": "1.0.0",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
