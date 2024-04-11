@@ -14,8 +14,19 @@
 		"build": "tsc",
 		"test": "jest"
 	},
-	"keywords": [],
-	"author": "",
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/biohackerellie/react-reoccurring-event-picker"
+	},
+	"keywords": [
+		"React",
+		"date",
+		"range",
+		"picker",
+		"reoccurring",
+		"event"
+	],
+	"author": "Ellie Kerns",
 	"license": "MIT",
 	"description": "A date range picker for React that allows you to select a start date and an end date and return all the days in between.",
 	"dependencies": {
