@@ -12,7 +12,7 @@ A TypeScript library for creating date-based events within a specified range, re
 ## 🛠 Installation
 
 ```bash
-npm install Reoccurring Event Picker # or pnpm, yarn, Bun.
+npm install @epklabs/react-reoccurring-event-picker # or pnpm, yarn, Bun.
 ```
 
 ## Usage
