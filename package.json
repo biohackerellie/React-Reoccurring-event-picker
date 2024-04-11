@@ -16,7 +16,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"description": "A date range picker for React that allows you to select a start date and an end date and return all the days in between.",
 	"dependencies": {
 		"moment-timezone": "^0.5.45"
